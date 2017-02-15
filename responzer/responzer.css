@@ -1,0 +1,11 @@
+/*
+
+    Stylesheet for Responzer.js
+
+*/
+.responzer {
+    min-width:      100% !important;
+    width:          100% !important;
+    height:         auto;
+    min-height:     auto;
+}
